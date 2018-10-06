@@ -5,4 +5,4 @@
 
 Script is written in Ruby using Watir Gem. 
 
-To run the app just run the command "ruby whatsappmessages.rb".
+To run the app just run the command "ruby whatsappmessages.rb". :sunglasses:
